@@ -1,0 +1,7 @@
+1. Probability of all sequences is given by .5*.5*.5*.5 = 1/16
+
+2. 24/45
+
+3. .1*.00005 = .0005%
+
+4. This conclusion is invalid because the sample of users is not representative. The 5% of users who are filling out the survey have to spent the extra time to fill out the survey. This condition that increases time on site is not present for the other 95% of users. Therefore, the data scientist drew an invalid conclusion by using a biased sample.
