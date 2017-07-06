@@ -1,0 +1,11 @@
+Data Source: Amsterdam availability data scraped from AirBnB on December 24th. Question: What are the popular neighborhoods in Amsterdam?
+
+The data is biased because the scrape occurred on Christmas Eve. You could change the question by adding "on Christmas Eve?" You could also perform your scrape again and select a random sample of days that excludes holidays.
+
+Data Source: Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY. Question: How do patterns of mental health service use vary between cities?
+
+The data is biased because it was collected the day after Septermber 11, 2001, which was the most shocking terrorist attack in American history. The trauma caused by this anamolous event is atypical and the trauma would be much greater in New York, the city where the attack took place. I would reframe the questions as follows: "How did New Yorkers use mental health services the day after 9/11 as compared to people in San Francisco?"
+
+Data Source: Armenian Pub Survey. Question: What are the most common reasons Armenians visit local pubs?
+
+The survey was taken online. This means that there could be selection bias. Some percentage of people don't have internet access or hardly ever use it. A significant percentage of people who do surf the internet find surveys annoying and would not take them. The creator of this survey doesn't give a description of how he distributed the survey and whether random selection was used. These are all reasons to suspect selection bias and thus, a nonrepresentative sample for the Armenian population. I would change the question to be less ambitious. I would rephrase it as follows: "What are some common reasons Armenians visit local pubs?" Substituting the word "some" for "the most" changes the question to one that can be answered by small, biased online survey.
