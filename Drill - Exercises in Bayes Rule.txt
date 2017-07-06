@@ -1,0 +1,12 @@
+P(A | B) = P(B | A) * P(A) / [P(A)*P(B|A) + P(A~)*P(B|A~)]
+
+1. Estimate = 9%
+
+
+
+
+2. Estimate = 98%
+
+3. Estimate = 80%
+
+4. Estimate = 12%
