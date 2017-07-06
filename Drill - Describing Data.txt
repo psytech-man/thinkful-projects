@@ -1,0 +1,45 @@
+1.
+
+Mode = 8 (only one with more than one instance)
+Mean = 14+12+11+10+8+6+8 / 7 = 9.857
+Median = 6,8,8,*10*,11,12,14 = 10 (odd # of items in list, so one value is exactly in the middle)
+
+v = sum((x - 9.857) ** 2) / (7 - 1)
+(for each age: plug it in for x, square the difference between that and the mean)
+(sum these squared values and divide by 6)
+
+variance = 6.408
+
+standard deviation = 6.408 ** 0.5 = 2.531
+
+standard error = std / sample size ** 0.5 = 2.531 / (7 ** 0.5) = 0.88
+
+2.
+
+I would indicate the central tendency of the data with the mean because there are no big outliers. I would indicate the variance of the data with the standard deviation because it gives an intuitive picture of the distribution if one knows normal distribution. For example, with a std of ~2.5 and a mean of ~10, I can quickly say that about 2/3 of the kids were between 7.5 and 12.5.
+
+3. 
+
+Mode - Doesn't change
+Mean - Changes to 10
+Median - Doesn't change 
+
+variance - changes, less variance, 
+standard deviation - changes, gets smaller
+standard error - changes, gets smaller
+
+4.
+
+Mode = multiple modes exception (every value is unique, so every value is the mode)
+Mean = 14+12+11+10+1+7+8 / 7 = 9
+Median = 1,6,8,*10*,11,12,14 = 10 (odd # of items in list, so one value is exactly in the middle)
+
+variance = 15.42
+standard deviation = 3.92
+standard error = 1.48
+
+Yes, this changes my central tendency selection from the mean to the median because an extreme outlier was added. Means are affected by outliers, especially with small sample sizes. Medians are not affect nearly as much. I would then indicate the variance with the standard error, which is now much bigger. This shows that the sample mean estimate is not very good, which indicates that there are outliers in the data.
+
+5. 
+
+It is difficult to estimate what percentage of the American population would be a Brady Bunch fan in this example because all the samples have selection bias. They are not randomly chosen samples. Thus, none of the samples stand out as being reprisentative of the general population. But since I have to chose, I would choose the TV Guide magazine. SciPhi is ruled out by being a niche interest magazine. The other two are ruled out because many of the readers would be teenagers, who are younger than 18 and thus, not adults. To estimate the percentage of adult Americans who were Brady Bunch fans on the 50th anniversary, I would have to settle with the TV Guide poll. This sample is still very biased since is roughly everyone in the sample has a TV, whereas not every American adult has a TV. Secondly, their readers would be skewed towards being fans of TV shows because not all adults who watch TV subscribe to the TV guide magazine and we can safely assume that paying money to subscribe and responding to a poll indicates that the respondent values TV highly. So given all of that, I will lower the number and estimate that 10% of American adults were still fans of the Brady Bunch on the 50th Anniversary.
