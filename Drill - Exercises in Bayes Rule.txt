@@ -1,0 +1,21 @@
+Bayes' Rule: P(A | B) = P(B | A) * P(A) / [P(A)*P(B|A) + P(A~)*P(B|A~)]
+
+1. Estimate = 9%
+
+P(Pos Test | Infected) = P(Infected | Pos Test) * P(Pos Test) / [P(Pos Test)*P(Infected|Pos Test) + P(Neg Test)*P(Infected|Neg Test)]
+= .9 * (.98 * .1) / [(.98 * .1)*.9 + (.02*.9)*.2
+= .9607 = 96.07%
+
+2. Estimate = 98%
+
+Bayes' rule not needed because the prompt already stated that there is a 98% chance the test will correctly diagnose someone with the condition.
+
+3. Estimate = 80%
+
+P(Neg Test | Not infected) = P(Not infected | Neg Test) * P(Neg Test) / [P(Neg Test)*P(Not infected|Neg Test) + P(Pos Test)*P(Not infected|Pos Test)]
+= (.9 * .02) * (.02 * .9) / [(.02*.9)*(.9*.02) + (.98*.1)*(.2)]
+= .01626 = 1.626%
+
+4. Estimate = 12%
+
+Bayes' rule not needed because the prompt already stated that there is a 10% chance the test will misclassify someone.
