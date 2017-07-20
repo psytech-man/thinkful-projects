@@ -1,0 +1,44 @@
+To me, data science is story telling with words and numbers. "For what?" or "To what end" are questions that always need to be addressed at the outset. Data Science is a hero with a thousand faces because it serves a thousand different purposes. Collecting and organizing data is clearly an essential feature. That part isn't negotiable. The ability to collect that data, analyze it, and tell useful stories about it is key. That is what sits at the center. Mathematical wizardry is nice, but not essential. World-class coding is great, but not necessary. Word smithing like Shakespeare and an eye for aesthetics like Michelangelo can go a long way, but are like a house build on sand if the sound data analysis is missing. I think Data Science is so interesting for these reasons. It requires creativity, critical thinking, pattern recognition, communication prowess, and a sense of style.
+
+---5 Job Postings---
+
+Bayes Impact - "Build the social services of the future with data." Yes, please. Working at a tech non-profit to deliver personalized and scalable interventions for tons of undeserved people sounds like exactly what I have in mind.
+https://www.bayesimpact.org/careers
+
+Quartet Health - This job is all about using data science to help integrate mental health into primary care and create better outcome measures. Awesome!
+https://www.linkedin.com/jobs/view/355665277?trkInfo=searchKeywordString:Data+Scientist,searchLocationString:%2C+Greater+New+York+City+Area,vertical:jobs,pageNum:1,position:4,MSRPsearchId:a1bda87b-44c4-4c0c-8f5f-c3d1512382f6&refId=a1bda87b-44c4-4c0c-8f5f-c3d1512382f6&trk=jobs_jserp_job_listing_text
+
+Moveable Ink - I did startup marketiMovable years, so this data science job would build on my existing skills and force me to use machine learning to aid with customer acquisition, repeat purchases via good suggestions, etc.
+https://www.linkedin.com/jobs/view/308160783?trkInfo=searchKeywordString:Data+Scientist,searchLocationString:%2C+Greater+New+York+City+Area,vertical:jobs,pageNum:1,position:5,MSRPsearchId:6e398d60-6bf3-4e69-92db-b2fbc44f70b0&refId=6e398d60-6bf3-4e69-92db-b2fbc44f70b0&trk=jobs_jserp_job_listing_text
+
+Grubhub - The startup I worked for was a competitor of GrubHub, so I know the industry. This would be a pragmatic backup option if I needed money and couldn't find anything better. Using data science to get more people to buy more delivery food. Yummy.
+https://www.linkedin.com/jobs/view/371803889?trkInfo=searchKeywordString:Data+Scientist,searchLocationString:%2C+Greater+New+York+City+Area,vertical:jobs,pageNum:1,position:8,MSRPsearchId:7d2f9196-92b7-4359-b6f3-18bd021c2a0b&refId=7d2f9196-92b7-4359-b6f3-18bd021c2a0b&trk=jobs_jserp_job_listing_text
+
+Spotify - The descriptions says that I'll change the way the world experiences music. I love music with all my being, so that sounds pretty nice.
+https://www.linkedin.com/jobs/view/322509360?trkInfo=searchKeywordString:Data+Scientist,searchLocationString:%2C+Greater+New+York+City+Area,vertical:jobs,pageNum:1,position:15,MSRPsearchId:6566eb19-04a4-4a74-8c9b-3d0e6ee6b486&refId=6566eb19-04a4-4a74-8c9b-3d0e6ee6b486&trk=jobs_jserp_job_listing_text
+
+---5 Dream Companies---
+
+The United Nations: They are all about maintaining international peace and protecting human rights.
+
+UNICEF: In the immortal words of Marvin Gaye, this organizations yearns to "Save the babies!"
+
+Human Rights Watch: They are tell the truth about human rights conditions around the world.
+
+Amnesty International: This organization conducts research to prevent human rights abuses.
+
+Love146 - They are trying to stop human trafficking.
+
+---Writing Prompts---
+
+1. I am interested in the intersection of data science, psychological research, technology-based behavioral health interventions, and entrepreneurship. I want my work to matter. I want data science to be an effective tool that can make it much easier and efficient and cost-effective to help as many people as possible. I think that natural language processing and machine learning have tremendous potential to interpret a person's written words and aid with diagnosis, interpretation, and outcome measurement. 
+
+Ideally, I would like to work for a startup or run my own small business as a liscenced clinical psychologist who knows how to use technology and data. I will acquire advanced technical knowledge about the field of clinicalicensedogy and how to best design and implement treatment interventions. The actual design and implementation could be greatly augmented by data science in a way that opens up possibilities as yet unheard of. 
+
+2. My ideal job will exercise both halves of my brain. I want to feel deep emotions with others and help them understand them. I want to use my natural talent for interpretation to help people interpret their lives in more helpful ways. But I also want to be a technician. I want to analyze. I want to build things. I want to keep up with trends in the tech world because it's moving on fast, with or without us. The world needs a nice mix of compassion and big data. I'd feel happy making the mix.
+
+3. Future Professional Summary
+
+Hello world. My name is Danny. I studied and worked in the field of psychology for over 10 years to understand what people are like so that I could help them make their lives into the most profound work of art they could imagine. After working for a tech startup and spending time with incredibly intelligent engineers and designers, I realized that rapidly advancing technology would become so powerful in the future that I needed to be one of the people who knew how to wield it properly. I acquired expertise as a Data Scientist because the ever-growing ocean of big data is almost entirely created by or reflective of human beings. So I figured that in order to really understand what people are like, I better know how to analyze big data.
+
+I spend my time reviewing the cutting-edge of psychological research in order to keep my tool kit of evidence-based treatments as up-to-date as your iPhone. I then collaborate with my business partners to design customizable treatment interventions that can be delivered to you, your circle of loved ones, or your organization via multiple integrated digital channels.
